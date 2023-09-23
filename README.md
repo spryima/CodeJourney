@@ -15,5 +15,5 @@ Caesar cipher (Aug 31, 2023)
 File Sorter (Aug 25, 2023)
 > Script that organize files in folder.
 
-File Sorter (Aug 10, 2023)
+First code on Python (Aug 10, 2023)
 > First day with Python
