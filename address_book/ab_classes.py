@@ -53,6 +53,7 @@ class Phone(Field):
     def __repr__(self) -> str:
         return self.value
 
+
 class Birthday(Field):
     @property
     def value(self):
