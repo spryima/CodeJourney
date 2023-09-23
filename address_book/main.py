@@ -175,7 +175,7 @@ def main():
                 contact_obj.phone = [Phone(phone) for phone in json_rec["phone"]] if json_rec else []
                 address_book.add_contact(contact_obj)
     clear_screen()
-    green_print('                 "ADDRESS BOOK"')
+    green_print('                  "ADDRESS BOOK"')
     print()
     green_print("help  ")
     print("- to get more information  about commands")
