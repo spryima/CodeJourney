@@ -3,6 +3,9 @@ from August 10, 2023 to Present
 
 # List of Projects:
 
+Web Chat & API based access to exchage rate (Oct 4, 2023)
+> Web chat build on WebSocket server with ability to interact via browser. Added the ability to enter the "exchange" command. It shows users the current exchange rate based on API related access to bank information. 
+
 Addres Book (Sep 23, 2023)
 > Сonsole-based Address Book that recognizes commands entered from the keyboard and responds according to the entered command.
 
