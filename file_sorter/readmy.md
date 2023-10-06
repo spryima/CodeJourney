@@ -1,5 +1,5 @@
 # File Sorter
-> The task was completed as part of the Python Core course at GoIT.
+
 
 ## Table of Contents
 * [General Info](#general-information)
